@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from person import Person
+from lib.person import Person
 
 import io
 import sys
